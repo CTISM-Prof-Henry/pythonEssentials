@@ -11,3 +11,4 @@
 * [Instalando e configurando o Python Anaconda](chapters/anaconda.md) 
 * [Instalando e configurando o Pycharm](chapters/pycharm.md)
 * [Criando e manipulando ambientes virtuais do conda](chapters/venvs.md)
+* [Instalando pacotes](chapters/packages.md)
