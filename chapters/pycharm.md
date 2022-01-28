@@ -4,7 +4,7 @@
 
 1. [Instalando](#Instalando)
 2. [Primeira configuração](#Primeira-configuração)
-3. [Configurações subsequentes (toda vez que criar/abrir um novo projeto)](#Configurações-subsequentes)
+3. [Configurações subsequentes](#Configurações-subsequentes)
 
 ## Instalando
 
@@ -78,5 +78,23 @@
 
 ## Configurações subsequentes 
 
-Toda vez que criar/abrir um novo projeto
+Depois que você clonar um repositório que é uma atividade do curso, você pode abri-lo como um projeto do Pycharm
 
+1. Abra o Pycharm Community Edition:
+
+![pycharm_start_menu](../images/pycharm_start_menu.png)
+
+2. Na tela a seguir, clique em **Open**
+
+![pycharm_start_screen](../images/pycharm_start_screen.png)
+
+3. Encontre a pasta do repositório que você clonou na sua máquina
+
+![pycharm_subsequent_1](../images/pycharm_subsequent_1.png)
+
+4. Caso apareça esta tela, marque a opção **Trust Project**
+
+![pycharm_subsequent_2](../images/pycharm_subsequent_2.png)
+
+5. Clique duas vezes com o botão esquerdo do mouse sobre o script que deseja executar, no navegador de arquivos da esquerda
+6. Siga o passo 11 da seção anterior
