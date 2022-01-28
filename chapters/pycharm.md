@@ -2,9 +2,9 @@
 
 ## Sumário
 
-1. [Instalando](#Instalando)
-2. [Primeira configuração](#Primeira-configuração)
-3. [Configurações subsequentes](#Configurações-subsequentes)
+1. [Instalando](#instalando)
+2. [Primeira configuração](#primeira-configuração)
+3. [Configurações subsequentes](#configurações-subsequentes)
 
 ## Instalando
 

@@ -2,9 +2,9 @@
 
 ## Sumário
 
-* [Introdução](#Introdução)
-* [Criando e usando pela linha de comando](#Criando-e-usando-pela-linha-de-comando)
-* [Usando pelo Pycharm](#Usando-pelo-Pycharm)
+* [Introdução](#introdução)
+* [Criando e usando pela linha de comando](#criando-e-usando-pela-linha-de-comando)
+* [Usando pelo Pycharm](#usando-pelo-pycharm)
 
 ## Introdução
 
