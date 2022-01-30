@@ -20,12 +20,8 @@ Considere o caso de querermos calcular o
 7 8 9
 ```
 
-1 2 3 1 2 
-4 5 6 4 5
-7 8 9 7 8
-
 Seguindo as regras da matemática, o determinante seria 
-((1*5*9)+(2*6*7)+(3*4*8)) - ((7*5*3)+(8*6*1)+(9*4*2))= 0.
+((1\*5\*9)+(2\*6\*7)+(3\*4\*8)) - ((7\*5\*3)+(8\*6\*1)+(9\*4\*2))= 0.
 
 Se fôssemos implementar um algoritmo para calcular o determinante de matrizes 3x3, ele seria o seguinte:
 
@@ -62,14 +58,15 @@ Existem duas maneiras de instalar bibliotecas: usando o comando `conda`, ou ent�
 
 É sempre preferível instalar as bibliotecas com o comando `conda`, pois ele efetivamente 
 "instala" a biblioteca na sua máquina. Por exemplo, se você fosse instalar a biblioteca 
-Tensorflow, utilizada para processamento de imagens, e não posuísse os drivers mais atualizados 
-da sua placa de vídeo, o `conda` os instalaria automaticamente para você. Com o comando `pip`, 
-você precisaria instalar esses drivers por conta própria.
+[Tensorflow](https://www.tensorflow.org/?hl=pt-br), utilizada para processamento de imagens, 
+e não posuísse os drivers mais atualizados  da sua placa de vídeo, o `conda` os instalaria 
+automaticamente para você. Com o comando `pip`,  você precisaria instalar esses drivers por 
+conta própria.
 
 Além disso, `pip` não resolve conflitos entre bibliotecas. Se uma biblioteca precisa por 
 exemplo do NumPy versão 1.09, e outra biblioteca precisa do NumPy versão 1.01, pode ser que a 
 versão 1.05 do NumPy atenda aos requisitos de ambas as bibliotecas. O comando `conda` tentará 
-verificar se este é o caso, e instalar as versões das bibliotecas que atendem todos os requisitos.
+verificar se este é o caso, e instalar a versão mais adequada do NumPy.
 
 Já o comando `pip` copia-e-cola os pacotes numa pasta do ambiente virtual. Se houver algum 
 conflito, você saberá porque a sua aplicação parou de funcionar...
@@ -132,13 +129,11 @@ pacote por pacote como no passo 4, até descobrir quais pacotes/bibliotecas só 
 
 ## Como saber se as bibliotecas foram instaladas?
 
-Você pode descobrir se os pacotes foram instalados corretamente digitando o comando
+Você pode descobrir se os pacotes foram instalados corretamente usando
 
 ```bash
 conda list
 ```
-
-ou então o comando
 
 ```bash
 pip list
@@ -148,16 +143,10 @@ Eles lhe mostrarão não apenas todas as bibliotecas/pacotes instalados no ambie
 
 ## Como desinstalar uma biblioteca?
 
-Use o comando
-
 ```bash
 conda uninstall <nome do pacote>
 ```
 
-ou então 
-
 ```bash
 pip uninstall <nome do pacote>
 ```
-
-Para desinstalar as bibliotecas.
