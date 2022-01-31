@@ -1,5 +1,13 @@
 # Instalando e configurando o Pycharm
 
+O Pycharm é um ambiente de desenvolvimento integrado (IDE, na 
+sigla em inglês). Isto significa que ele concentra diversos
+recursos que são comuns ao desenvolvimento de software, que 
+agilizam o desenvolvimento do mesmo.
+
+Você não precisa necessariamente usar o Pycharm como IDE durante
+este curso, porém o suporte será dado para esta IDE.
+
 ## Sumário
 
 1. [Instalando](#instalando)
