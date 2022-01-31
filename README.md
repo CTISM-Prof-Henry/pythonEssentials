@@ -10,4 +10,5 @@
 
 * [Instalando e configurando o Python Anaconda](chapters/anaconda.md) 
 * [Instalando e configurando o Pycharm](chapters/pycharm.md)
+* [Rodando Python pela linha de comando](chapters/commandline_python.md)
 * [Criando e manipulando ambientes virtuais do conda](chapters/venvs.md)
