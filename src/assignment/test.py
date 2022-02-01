@@ -4,7 +4,7 @@ class Testador(unittest.TestCase):
 
 	def test_main(self):
 		try:
-			from assignment import main as other_main
+			from main import main as other_main
 		except Exception as e:
 			raise Exception('Existe algum erro no código-fonte. ' 
 				'Certeza que escreveu tudo certo?')
