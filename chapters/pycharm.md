@@ -6,7 +6,15 @@ recursos que são comuns ao desenvolvimento de software, que
 agilizam o desenvolvimento do mesmo.
 
 Você não precisa necessariamente usar o Pycharm como IDE durante
-este curso, porém o suporte será dado para esta IDE.
+este curso, porém o suporte será dado para esta IDE. Porém, 
+ao usar o Pycharm, você estará garantindo que seu código-fonte
+siga automaticamente o [PEP 8](https://www.python.org/dev/peps/pep-0008/), 
+uma padronização sobre como o código-fonte escrito em Python deve se comportar (por exemplo, usar espaços ao invés de 
+tabulações, não exceder uma linha em mais de 79 caracteres,
+deixar uma linha em branco entre definições de funções, etc).
+
+Você pode ler um resumo dos requisitos do PEP 8 aqui: 
+[link](https://docs.python.org/pt-br/3.9/tutorial/controlflow.html#intermezzo-coding-style)
 
 ## Sumário
 
