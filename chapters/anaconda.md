@@ -1,5 +1,11 @@
 # Instalando e configurando o Python Anaconda
 
+## Sumário
+
+* [Passo-a-passo](#passo-a-passo)
+* [Como saber se fiz certo?](#como-saber-se-fiz-certo)
+* [E o que fazer se fiz errado?](#e-o-que-fazer-se-fiz-errado)
+
 ## Passo-a-passo
 
 1. Baixe o Python Anaconda da seguinte página: [link](https://www.anaconda.com/products/individual)

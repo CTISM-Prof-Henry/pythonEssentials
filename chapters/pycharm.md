@@ -68,7 +68,8 @@ Você pode ler um resumo dos requisitos do PEP 8 aqui:
 
 5. No navegador de arquivos que abrir, encontre o programa python.exe
 
-	* Por padrão, ele é instalado na pasta C:\\Users\\<seu nome de usuário>\\anaconda3\\python.exe
+	* Por padrão, ele é instalado na pasta `C:\Users\<seu nome de usuário>\anaconda3\python.exe`
+	* Outro local que ele pode estar é em `C:\ProgramData\Anaconda3\python.exe`
 	* Se não estiver nesta pasta, você pode usar a busca do Windows para encontrar este programa
 
 ![pycharm_setup_3](../images/pycharm_setup_3.png)
