@@ -21,6 +21,7 @@ Você pode ler um resumo dos requisitos do PEP 8 aqui:
 1. [Instalando](#instalando)
 2. [Primeira configuração](#primeira-configuração)
 3. [Configurações subsequentes](#configurações-subsequentes)
+4. [Criando e gerenciando arquivos pela IDE](#criando-e-gerenciando-arquivos-pela-ide)
 
 ## Instalando
 
@@ -115,3 +116,39 @@ Depois que você clonar um repositório que é uma atividade do curso, você pod
 
 5. Clique duas vezes com o botão esquerdo do mouse sobre o script que deseja executar, no navegador de arquivos da esquerda
 6. Siga o passo 11 da seção anterior
+
+## Criando e gerenciando arquivos pela IDE
+
+Ao programar, você pode perceber que é mais organizado criar um novo arquivo 
+de código-fonte para cada tarefa (por exemplo, quando estiver fazendo os exercícios
+do [PythonBrasil](https://wiki.python.org.br/ListaDeExercicios)).
+
+Para criar novos arquivos de código-fonte, siga o seguinte passo-a-passo:
+
+1. Clique com o botão direito em cima da pasta do projeto, na janela **Project**,
+e selecione as opções **New** e depois **Python File**
+    * Perceba que este é o mesmo passo-a-passo para criar outros tipos de arquivos.
+      O Pycharm lhe dá uma lista de arquivos que podem ser criados pela IDE
+
+![](../images/pycharm_custom_files_1.png)
+
+2. Escolha um nome para o novo arquivo, e o seu tipo (selecione
+   **Python file** se não souber o que as outras opções fazem)
+
+![](../images/pycharm_custom_files_3.png)
+
+3. Após escrever o código-fonte desejado, execute-o clicando com 
+   o botão direito em cima do arquivo na janela **Project**, e selecionando a 
+   opção **Run**
+4. Lembre-se que, **depois da primeira execução**, você pode usar uma das opções
+   descritas no passo 11 da seção [Primeira configuração](#primeira-configuração)
+
+![](../images/pycharm_custom_files_4.png)
+
+5. Observe atentamente qual script está sendo executado no canto superior direito
+   da IDE. Caso você se descuide disso, pode ser que você ainda esteja executando
+   um script anterior!
+   * É possível ver qual script está rodando nas áreas circuladas em vermelho
+     na imagem abaixo
+
+![](../images/pycharm_custom_files_5.png)
