@@ -1,12 +1,14 @@
 # pythonEssentials
 
-## Objetivos deste repositório
+Este repositório visa ensinar como configurar seu ambiente de trabalho programação em Python. 
+Ele assume que você **já saiba utilizar Git e Github** (se você não sabe, confira [este outro
+repositório](https://github.com/CTISM-Prof-Henry/gitEssentials)).
 
-* Este repositório irá lhe ensinar como configurar seu ambiente de trabalho para programação em Python
-* Este repositório assume que **você já sabe utilizar Git + Github**
-* As instruções são voltadas para quem usa Windows
+Da mesma maneira, as instruções contidas aqui são voltadas para quem usa Windows, o sistema
+operacional mais popular. (se você usa Linux, provavelmente você saberá adaptar o passo-a-passo
+para sua distro).
 
-## Capítulos
+## Tópicos
 
 * [Instalando e configurando o Python Anaconda](chapters/anaconda.md) 
 * [Instalando e configurando o Pycharm](chapters/pycharm.md)
