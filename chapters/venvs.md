@@ -58,7 +58,7 @@ end
 ## Criando pela linha de comando
 
 1. [Abra a linha de comando do Anaconda no seu computador](
-   anaconda.md#e-o-que-fazer-se-fiz-errado)
+   anaconda.md#abrindo-o-anaconda-pela-linha-de-comando-do-anaconda)
 2. Digite o comando
 
 ```bash
@@ -92,7 +92,7 @@ linha de comando.
 ## Usando pela linha de comando
 
 1. [Abra a linha de comando do Anaconda no seu computador](
-   anaconda.md#e-o-que-fazer-se-fiz-errado)
+   anaconda.md#abrindo-o-anaconda-pela-linha-de-comando-do-anaconda)
 2. Ative o ambiente virtual com 
 
 ```bash

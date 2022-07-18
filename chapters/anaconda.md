@@ -3,8 +3,8 @@
 ## Sumário
 
 * [Passo-a-passo](#passo-a-passo)
-* [Como saber se fiz certo?](#como-saber-se-fiz-certo)
-* [E o que fazer se fiz errado?](#e-o-que-fazer-se-fiz-errado)
+* [Abrindo o Anaconda pela linha de comando do Windows](#abrindo-o-anaconda-pela-linha-de-comando-do-windows)
+* [Abrindo o Anaconda pela linha de comando do Anaconda](#abrindo-o-anaconda-pela-linha-de-comando-do-anaconda)
 
 ## Passo-a-passo
 
@@ -15,10 +15,10 @@
 ![anaconda_option](../images/anaconda_option.png)
 
 **Se você não marcar esta opção agora, não conseguirá rodar nem o Python e nem o comando `conda`
-a partir da linha de comando do Windows.** Veja a seção [E o que fazer se fiz errado?](#E-o-que-fazer-se-fiz-errado?) para saber como proceder.
+a partir da linha de comando do Windows.** Veja a seção [Abrindo o Anaconda pela linha de comando do Anaconda](#abrindo-o-anaconda-pela-linha-de-comando-do-anaconda?) para saber como proceder.
 
 
-## Como saber se fiz certo?
+## Abrindo o Anaconda pela linha de comando do Windows
 
 1. Abra a linha de comando do seu computador:
 
@@ -31,7 +31,7 @@ a partir da linha de comando do Windows.** Veja a seção [E o que fazer se fiz 
 
 **Nota:** não há problema se a versão que aparecer não for exatamente a mesma da imagem.
 
-## E o que fazer se fiz errado?
+## Abrindo o Anaconda pela linha de comando do Anaconda
 
 1. Encontre o _launcher_ do Anaconda no computador:
 
