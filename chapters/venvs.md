@@ -57,7 +57,9 @@ conda deactivate
 
 ![venvs_setup_2](../images/venvs_setup_2.png)
 
-6. Encontre onde está o python.exe do ambiente virtual. Por padrão, os ambientes virtuais são instalados em C:\\Users\\\<nome de usuário\>\anaconda3\envs
+6. Encontre onde está o python.exe do ambiente virtual. Por padrão, os ambientes virtuais são instalados em `C:\Users\<nome de usuário>\anaconda3\envs`
+   * Outro lugar que eles podem estar é em `C:\Users\<nome de usuário>\.conda\envs\<nome do ambiente virtual>\python.exe`
+   * Por exemplo, `C:\Users\aluno\.conda\envs\websys\python.exe`
 
 ![venvs_setup_3](../images/venvs_setup_3.png)
 
